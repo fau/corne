@@ -19,9 +19,9 @@ This layout is designed for the Corne keyboard and is saved in Vial format. It i
 
 ## Screenshots
 
-### Numpad Layer and Number Combos on Base Layer
+### Numpad and Symbols Layer and Number Combos on Base Layer
 
-![Numpad layer and number combos on base layer](img/conre-fau-combo-num.png)
+![Numpad and symbols layer and number combos on base layer](img/conre-fau-combo-num-symb.png)
 
 ### Symbols and Navigation on Base Layer
 
