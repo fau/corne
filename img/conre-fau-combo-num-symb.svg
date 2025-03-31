@@ -9,6 +9,9 @@
    id="svg1"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="conre-fau-combo-num-symb.svg"
+   inkscape:export-filename="conre-fau-combo-num-symb.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.6686854"
-     inkscape:cx="252.73469"
-     inkscape:cy="248.24828"
+     inkscape:cx="611.64787"
+     inkscape:cy="369.38148"
      inkscape:window-width="1872"
      inkscape:window-height="1163"
      inkscape:window-x="0"
@@ -491,7 +494,7 @@
        style="font-size:32px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect405);display:inline;opacity:0.997329;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.0383278;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="259.04297"
          y="58.721475"
-         id="tspan1">Combo for typing numbers in base layer</tspan></text>
+         id="tspan3">Combo for typing numbers in base layer</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.997329;fill:#666666;stroke:none;stroke-width:0.264583;stroke-opacity:1"
@@ -4512,7 +4515,7 @@
        style="font-size:32px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect768);display:inline;opacity:0.997329;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.0383278;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"><tspan
          x="259.04297"
          y="58.721475"
-         id="tspan2">Numpad and symbol layer for Corne keyboard</tspan></text>
+         id="tspan4">Numpad and symbol layer for Corne keyboard</tspan></text>
     <rect
        style="opacity:0.997329;fill:#cccccc;stroke:#000000;stroke-width:0.574395;stroke-opacity:1"
        id="rect770"
