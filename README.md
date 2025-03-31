@@ -2,7 +2,7 @@
 
 ## Description
 
-This layout is designed for the Corne keyboard and is saved in Vial format. It is optimized for comfortable work with source code in various IDEs.
+This layout is designed for the Corne keyboard and is saved in Vial format. It is optimized for comfortable work with source code in various IDEs. I used the character frequency analyzer [charcounter](https://github.com/fau/charcounter) to make the more frequent characters more accessible.
 
 ## Installation
 
